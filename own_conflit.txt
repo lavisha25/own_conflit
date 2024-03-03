@@ -1,2 +1,2 @@
 this is my first repo
-lets do something
+author: lavisha chhabra
